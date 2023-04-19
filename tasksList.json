@@ -1,0 +1,62 @@
+[
+    {
+    "id": 1,
+    "title": "Comprar leite",
+    "description": "Comprar leite no supermercado.",
+    "completed": false
+    },    
+    {
+    "id": 2,
+    "title": "Fazer exercícios",
+    "description": "Fazer 30 minutos de exercícios aeróbicos.",
+    "completed": true
+    },    
+    {
+    "id": 3,
+    "title": "Marcar consulta",
+    "description": "Marcar uma consulta com o médico.",
+    "completed": false
+    },    
+    {
+    "id": 4,
+    "title": "Ler livro",
+    "description": "Ler um capítulo do livro de ficção.",
+    "completed": false
+    },    
+    {
+    "id": 5,
+    "title": "Responder e-mails",
+    "description": "Responder e-mails pendentes de trabalho.",
+    "completed": true
+    },    
+    {
+    "id": 6,
+    "title": "Lavar roupa",
+    "description": "Lavar e dobrar a roupa suja.",
+    "completed": false
+    },    
+    {
+    "id": 7,
+    "title": "Pagar contas",
+    "description": "Pagar contas de água, luz e telefone.",
+    "completed": false
+    },
+    {
+    "id": 8,
+    "title": "Organizar armário",
+    "description": "Organizar as roupas e sapatos no armário.",
+    "completed": true
+    },    
+    {
+    "id": 9,
+    "title": "Estudar",
+    "description": "Estudar para a prova de matemática.",
+    "completed": false
+    },    
+    {
+    "id": 10,
+    "title": "Cozinhar jantar",
+    "description": "Preparar o jantar para a família.",
+    "completed": true
+    }
+]
